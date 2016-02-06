@@ -22,7 +22,7 @@
         {% assign pages = site.pages | sort:"weight"  %}
           {% for p in pages %}
             <a class="page-link" {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
-              {{ p.title }}
+              {{ p.menu }}
             </a>
         {% endfor %}
       </div>

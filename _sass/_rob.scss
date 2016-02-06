@@ -1,0 +1,25 @@
+html { 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+html.index { background: url(/img/IMG_6954.jpg) no-repeat center center fixed; }
+html.photography { background: url(/img/IMG_0021.jpg) no-repeat center center fixed; }
+html.rowing { background: url(/img/IMG_0795.jpg) no-repeat center center fixed; }
+html.voice { background: url(/img/IMG_0309.jpg) no-repeat center center fixed; }
+html.consulting { background: url(/img/IMG_7757.jpg) no-repeat center center fixed; }
+
+article {
+  opacity: 0.8;
+  background-color: #fdfdfd;
+  padding: 20px;
+}
+
+.fa {
+  color: #111;
+}
+.fa-2x {
+  padding: 5px 5px 5px 0;
+}
