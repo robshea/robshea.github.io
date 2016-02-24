@@ -7,9 +7,9 @@ weight: 4
 bgClass: consulting
 ---
 
-*Senior Managing Consultant*  
+*Associate Director, Experience Architecture*  
 [IBM Interactive Experience](http://ibminteractive.com), Chicago  
-Specializing in mobile, web and social  
+User experience, information architecture, and development for in mobile, web and social  
 
 [<i class="fa fa-linkedin-square fa-2x"></i>](https://www.linkedin.com/in/robshea)
 [<i class="fa fa-twitter-square fa-2x"></i>](https://twitter.com/keltic)
