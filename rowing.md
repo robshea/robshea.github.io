@@ -12,3 +12,5 @@ bgClass: rowing
 <i class="fa fa-bullhorn fa-lg fa-flip-horizontal"></i> *Rowing Coach, USRowing Level2 certification in progress*
 
 [Grand Rapids Rowing Association](http://grrowing.org)  
+
+[<i class="fa fa-twitter-square fa-2x"></i>](https://twitter.com/grrowing_pres)
